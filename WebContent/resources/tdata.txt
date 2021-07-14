@@ -1,0 +1,15 @@
+﻿[
+
+{"devicename":"Ku主站处理2",
+"ipaddr":"192.168.2.104",
+"devicetype":"工控机",
+"belongto":"越南国防部VSAT卫星通信网",
+"location":"11",
+"lmtime":"2015-09-09 16:39:46.0",
+"savetime":"2015-08-27 16:50:00.0",
+"state":"0",
+"statusid":"595",
+"status":"[?xml version=1.0 encoding=UTF-8?][status][terminal ipaddr=192.168.2.104 mac=00-22-46-09-2C-CA name=Ku主站处理2 os=Win32[version-5.2, datamodel-32] pcname=KU主站处理3-4 type=pcstatus/][cpu number=2 payload=98.4][core id=0 payload=100.0/][core id=1 payload=100.0/][/cpu][memory payload=57.0/][harddisk][hd free=44386180 path=C-/ payload=14.000000000000002 used=6812940/][hd free=229648832 path=D-/ payload=2.0 used=2739392/][hd free=204148060 path=E-/ payload=1.0 used=648528/][/harddisk][dirs][dir count=2 dsize=109042938 modified=2015-09-10 08-36-35 path=D-/data/][dir count=1 dsize=83200392 modified=2015-09-10 08-36-35 path=D-/ZcXt/ip/][dir count=0 dsize=0 modified=1970-01-01 08-00-00 path=D-/ZcXt/wav/][dir count=0 dsize=0 modified=1970-01-01 08-00-00 path=D-/ZcXt/wavbak/][/dirs][networks][net name=发报网关 status=0/][net name=报文服务器 status=0/][/networks][applications][app name=g711-u率译码.exe status=0/][app name=g729-2011-06-14.exe status=0/][app name=zcxt.exe status=0/][app name=filetranwin.exe status=0/][app name=idirecttdmdecode(real-time).exe status=0/][/applications][/status]",
+"alarm":""}
+
+]

@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+#main {
+	background-color: white;
+	min-height: 100%;
+	height: auto;
+	margin: auto auto -60px;
+	padding: 60px 0 60px;
+}
+
+#hbar {
+	min-height: 40px;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+#myTab {
+	min-width: 480px;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	border: none;
+}
+
+.container .text-muted {
+	margin: 20px 0;
+}

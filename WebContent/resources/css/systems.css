@@ -1,0 +1,75 @@
+@CHARSET "UTF-8";
+#main {
+	background-color: white;
+	background-image: url(../images/backgroud.jpg);
+	background-repeat: repeat;
+	min-height: 100%;
+	height: auto;
+	margin: -150px auto -60px;
+	padding: 190px 0 60px;
+}
+
+#hbar {
+	min-height: 40px;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+#header {
+	background-color: white;
+	height: 150px;
+	margin: 0;
+	color: white;
+	font-weight: bold;
+}
+
+#myTab {
+	min-width: 480px;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	border: none;
+}
+
+.container .text-muted {
+	margin: 20px 0;
+}
+
+.metro {
+	width: 345px;
+	height: 115px;
+	border: 1px solid #666;
+	border-radius: 5px;
+	box-shadow: 1px 1px 2px #666;
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.metro-img {
+	float: left;
+	margin-top: 28px;
+	margin-left: 15px;
+}
+
+.metro-desc {
+	float: left;
+	width: 260px;
+	margin-left: 0;
+}
+
+.metro-h4 {
+	height: 32px;
+	margin: 15px auto 0px 15px;
+	font-weight: bolder;
+}
+
+.metro-ul {
+	margin-top: 2px;
+	margin-bottom: 5px;
+}
+.metro-link {
+	float: right;
+	font-size: 9pt;
+	margin-right: 20px;
+}
+
