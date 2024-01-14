@@ -31,7 +31,7 @@
 	<!-- 页头 -->
 	<div id="header" class="jumbotron">
         <div class="container">
-            <h1>龙泉卫星侦控阵地在控系统状态监控</h1>
+            <h1>卫星系统状态监控</h1>
             <h3 id="curtime"></h3>
         </div>
     </div>
