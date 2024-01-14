@@ -3,7 +3,7 @@
 {"devicename":"Ku主站处理2",
 "ipaddr":"192.168.2.104",
 "devicetype":"工控机",
-"belongto":"越南国防部VSAT卫星通信网",
+"belongto":"越南VSAT卫星通信网",
 "location":"11",
 "lmtime":"2015-09-09 16:39:46.0",
 "savetime":"2015-08-27 16:50:00.0",
